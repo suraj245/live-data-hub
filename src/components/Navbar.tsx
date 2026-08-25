@@ -79,15 +79,15 @@ export default function Navbar() {
               </li>
 
               <li>
-                <Link href="/">Crypto</Link>
+                <Link href="/crypto">Crypto</Link>
               </li>
 
               <li>
-                <Link href="/">Weather</Link>
+                <Link href="/weather">Weather</Link>
               </li>
 
               <li>
-                <Link href="/">Currency</Link>
+                <Link href="/currency">Currency</Link>
               </li>
 
               <li>

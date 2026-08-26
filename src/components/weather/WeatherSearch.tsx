@@ -31,7 +31,7 @@ export default function WeatherSearch({
   };
 
   return (
-    <section className="bg-[#0e152f] text-white py-20">
+    <section className="bg-[#0e152f] text-white md:py-20 py-5">
 
       <div className="max-w-7xl mx-auto px-6">
 

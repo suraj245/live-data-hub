@@ -1,6 +1,6 @@
 export default function WeatherHero() {
   return (
-    <section className="bg-[#0e152f] text-white py-16 md:py-4">
+    <section className="bg-[#0e152f] text-white py-5 md:py-16">
 
       <div className="max-w-9xl mx-auto px-6">
 
@@ -178,7 +178,7 @@ export default function WeatherHero() {
 
             {/* Right Visual */}
 
-            <div className="relative flex justify-center">
+            <div className="relative justify-center hidden md:flex">
 
               <div
                 className="

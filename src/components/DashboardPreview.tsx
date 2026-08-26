@@ -14,7 +14,7 @@ export default function DashboardPreview() {
             Everything in one place
           </h2>
 
-          <p className="text-slate-400 text-wrap w-md mx-auto">
+          <p className="text-slate-400 text-wrap w-auto md:w-md mx-auto">
             Three powerful dashboards, one seamless interface. Switch between asset classes without losing context.
           </p>
 
